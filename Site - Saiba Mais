@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Green.Tag</title>
+<link rel="stylesheet" href="https://">
+</head>
+
+<body>
+<div style="text-align:center">
+<h1>Saiba Mais A Seguir</h1>
+</div>
+
+<div class="container-fluid">
+    <h2>Sobre nós</h2>
+    <p>Somos bla bla bla bla</p>
+    
+    <h2>Oque é a tecnologia verde?</h2>
+    <p>ela é bla bla bla bla</p>
+
+    <h2>Como o site busca colaborar com isso?</h2>
+    <p>Usando a internet de gancho para bla bla bla bla</p>
+</body>
