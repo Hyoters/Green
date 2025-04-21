@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Green.Tag-Colaboradores</title>
+<link rel="stylesheet" href="https://">
+</head>
+
+<body>
+<div style="text-align:center">
+<h1>Colaboradores</h1>
+</div>
+
+<div class="container">
+    <h1>Charliton</h1>
+    <p>bla bla bla</p>
+
+    <h1>Roberta</h1>
+    <p>bla bla bla</p>
+
+    <h1>Cassia</h1>
+    <p>bla bla bla</p>
+
+    <h1>Leticia</h1>
+    <p>bla bla bla</p>
+
+    <h1>Lucas Yuri</h1>
+    <p>bla bla bla</p>
