@@ -12,9 +12,9 @@
 <Div class="container" style="text-align:center"
 ><h1>Cadastre-se</h1>
 <h3>Emal/Chave</h3>
-<textarea></textarea>
+<input type="email"></input>
 <h3>Senha/Chave</h3>
-<textarea></textarea>
+<input password></input>
 <a href="Site 2 - login.html">
-<h6><button>Já tem cadastro? Clique Aqui</button></h6></a>
+<h6><button>Já tem cadastro? Clique Aqui.</button></h6></a>
 </Div>
