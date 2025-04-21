@@ -12,8 +12,8 @@
 <Div class="container" style="text-align:center"
 ><h1>Login</h1>
 <h3>Email/Chave</h3>
-<textarea></textarea>
+<input type="email"></input>
 <h3>Senha/Chave</h3>
-<textarea></textarea>
+<input password></input>
 <a href="Site - cadastro.html">
 <h6><button>Não tem cadastro ainda? Clique Aqui.</button></h6></a>
