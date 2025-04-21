@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h1> <title>Green.Tag</title> <h1>
+<title>Green.Tag-Cadastro</title>
 <link rel="stylesheet" href="https://">
 </head>
 
@@ -13,7 +13,7 @@
 ><h1>Cadastre-se</h1>
 <h3>Emal/Chave</h3>
 <textarea></textarea>
-<h3>Senha</h3>
+<h3>Senha/Chave</h3>
 <textarea></textarea>
 <a href="Site 2 - login.html">
 <h6><button>Já tem cadastro? Clique Aqui</button></h6></a>
